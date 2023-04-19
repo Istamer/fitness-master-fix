@@ -1,0 +1,23 @@
+/*.registration {
+    width: 400px;
+    height: 390px;
+    background: #fffbf7;
+    border: 1px solid #d5cbcb;
+    box-shadow: 0 2px 4px darkgray;
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+}
+
+.registration > input {
+    outline: none;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+}
+
+.registration > .button {
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+}*/
+
